@@ -1,0 +1,16 @@
+{
+    "admin": [
+        {
+            "id": "Test",
+            "password": "5fab95ed65dedc23fb1a01f8a718912e1de27618e40bd5bed9457b92938e8e8a"
+        },
+        {
+            "id": "Frank",
+            "password": "424f025794e9b02bd2c40fc799d7953954eafef2a6a3c0a0bcdf984414d8cd61"
+        },
+        {
+            "id": "Chase",
+            "password": "4d3c5635a96324ea78b447758337aa83f7be8dc6340af89fd904aa1f4e5e346d"
+        }
+    ]
+}

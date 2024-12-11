@@ -1,0 +1,68 @@
+{
+    "students": [
+        {
+            "name": "Tina Turner",
+            "id": "700123",
+            "age": 45,
+            "gender": "F",
+            "phone": "123-123-1239",
+            "major": "SE",
+            "classes": [
+                "CS1000",
+                "CS2300",
+                "CS2400",
+                "CS1030"
+            ],
+            "grad_year": "2027",
+            "gpa": "4.0"
+        },
+        {
+            "name": "Brett Farve",
+            "id": "700002",
+            "age": 56,
+            "gender": "M",
+            "phone": "774-456-4564",
+            "major": "CS",
+            "classes": [
+                "CS1000",
+                "CS2300",
+                "CS2400",
+                "CS1030"
+            ],
+            "grad_year": "2067",
+            "gpa": 3.21
+        },
+        {
+            "name": "Earl Dean",
+            "id": "700003",
+            "age": 78,
+            "gender": "M",
+            "phone": "123-512-6522",
+            "major": "IT",
+            "classes": [
+                "CS2400",
+                "IT1000",
+                "CS1030",
+                "CYBR1000"
+            ],
+            "grad_year": "2059",
+            "gpa": 0.32
+        },
+        {
+            "name": "Tucker James",
+            "id": "700004",
+            "age": 50,
+            "gender": "M",
+            "phone": "432-523-7234",
+            "major": "DS",
+            "classes": [
+                "ASCT2030",
+                "DSA1080",
+                "CS1030",
+                "CS2300"
+            ],
+            "grad_year": "2030",
+            "gpa": 3.98
+        }
+    ]
+}
